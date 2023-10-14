@@ -1,0 +1,211 @@
+PS D:\git_fill>  git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+PS D:\git_fill> git branch
+* main
+  one
+PS D:\git_fill> git log
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+Merge: 4d7d29f f314de3
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:50:01 2023 +0300
+
+    fix conflict
+
+commit 4d7d29f2b5cafbc7f73de8c04f1a06ff785b78ce
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:44:00 2023 +0300
+
+    змінив текст в головні вєтці
+
+commit f314de374cec0ac21a96e111e0a846966807cdc1 (origin/one, one)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:36:11 2023 +0300
+
+    змінив текст one index.html and
+
+commit a088a271aab7f3c1072fc1563bb3f0064f02d50e
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:33:52 2023 +0300
+
+    змінив текст
+
+commit f51ecb409da9c3264e74970c69334d1b68962dc0
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:29:39 2023 +0300
+
+    додав файл index.html
+...skipping...
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+Merge: 4d7d29f f314de3
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:50:01 2023 +0300
+
+    fix conflict
+
+commit 4d7d29f2b5cafbc7f73de8c04f1a06ff785b78ce
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:44:00 2023 +0300
+
+    змінив текст в головні вєтці
+
+commit f314de374cec0ac21a96e111e0a846966807cdc1 (origin/one, one)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:36:11 2023 +0300
+
+    змінив текст one index.html and
+
+commit a088a271aab7f3c1072fc1563bb3f0064f02d50e
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:33:52 2023 +0300
+
+...skipping...
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+Merge: 4d7d29f f314de3
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:50:01 2023 +0300
+
+    fix conflict
+
+commit 4d7d29f2b5cafbc7f73de8c04f1a06ff785b78ce
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:44:00 2023 +0300
+
+    змінив текст в головні вєтці
+
+commit f314de374cec0ac21a96e111e0a846966807cdc1 (origin/one, one)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:36:11 2023 +0300
+
+    змінив текст one index.html and
+
+commit a088a271aab7f3c1072fc1563bb3f0064f02d50e
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:33:52 2023 +0300
+commit 399acff1fa8177da89ef8c6345ece86a4e041dea (HEAD -> main)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:55:59 2023 +0300
+
+    додав файл
+
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+Merge: 4d7d29f f314de3
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:50:01 2023 +0300
+
+    fix conflict
+
+commit 4d7d29f2b5cafbc7f73de8c04f1a06ff785b78ce
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:44:00 2023 +0300
+
+    змінив текст в головні вєтці
+
+commit f314de374cec0ac21a96e111e0a846966807cdc1 (origin/one, one)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:36:11 2023 +0300
+
+    змінив текст one index.html and
+
+commit a088a271aab7f3c1072fc1563bb3f0064f02d50e
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:33:52 2023 +0300
+
+    змінив текст
+
+commit f51ecb409da9c3264e74970c69334d1b68962dc0
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:29:39 2023 +0300
+
+    додав файл index.html
+...skipping...
+Merge: 4d7d29f f314de3
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:50:01 2023 +0300
+
+    fix conflict
+
+commit 4d7d29f2b5cafbc7f73de8c04f1a06ff785b78ce
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:44:00 2023 +0300
+
+    змінив текст в головні вєтці
+
+commit f314de374cec0ac21a96e111e0a846966807cdc1 (origin/one, one)
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:36:11 2023 +0300
+
+    змінив текст one index.html and
+
+commit a088a271aab7f3c1072fc1563bb3f0064f02d50e
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:33:52 2023 +0300
+
+    змінив текст
+
+commit f51ecb409da9c3264e74970c69334d1b68962dc0
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:29:39 2023 +0300
+
+    додав файл index.html
+PS D:\git_fill> git log --merges
+commit 4a0059a3e8e998c67f0fcfafbd4064adf014c975 (origin/main)
+Merge: 4d7d29f f314de3
+Author: Roman <fluiq4416www@gmail.com>
+Date:   Sat Oct 14 19:50:01 2023 +0300
